@@ -5,4 +5,5 @@ async function init(){
     
 
 }
+// dont forgate to call the async function
 init();
